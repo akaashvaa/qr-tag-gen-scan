@@ -9,7 +9,7 @@ function App() {
           Qr Code Generator & Scanner
         </h1>
 
-        <div className="row pt-4 mt-4">
+        <div className="row pt-4 mt-8">
           <CreateQR />
           <ReadQR />
         </div>
