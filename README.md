@@ -1,4 +1,5 @@
 # qr-tag-gen-scan
+https://qrcodegenscan.netlify.app/
 ##### This is a qr code generator and scanner web page.
 
 - I have used vite-react to develop this web. and to generate qr tagi used react-qr-code lib and to scan the qr tag i used qrscanner.
